@@ -1,4 +1,5 @@
 # 🍩 donut.py
+The first-ever `donut.c` Python clone that *looks like a donut*!
 
 ```python
 while ('o_' in dir()) or (A := (0)
@@ -35,8 +36,6 @@ Run with:
 ```
 python3 donut.py
 ```
-
-The first-ever `donut.c` Python clone that *looks like a donut*!
 
 Original `donut.c` idea from [Andy Sloane's blog](https://www.a1k0n.net/2011/07/20/donut-math.html).
 Original one-line `donut.py` implementation by [Julius Syvis's DonutPy](https://github.com/Julius-Syvis/DonutPy).
